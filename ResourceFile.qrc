@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="Buttons">
+    <file>Icons/Create Button.png</file>
+    <file>Icons/Progress Button.png</file>
+    <file>Icons/Settings Button.png</file>
+  </qresource>
+</RCC>
