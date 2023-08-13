@@ -13,6 +13,7 @@ Before running the script, make sure you have the following:
 - The `smtplib` library (included in Python's standard library).
 - The `email` library (included in Python's standard library).
 - A `credentials.py` file containing your Gmail email address and app password. Example:
+```
 
 ```python
 accDetails = {
