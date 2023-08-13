@@ -1,6 +1,3 @@
-Certainly! Here's the README with all the content in code blocks:
-
-```markdown
 # Task Reminder Email Generator
 
 This Python script sends task reminder emails using the Gmail SMTP server. It generates HTML-formatted email content with task details and sends it to the specified recipient's email address.
@@ -13,7 +10,6 @@ Before running the script, make sure you have the following:
 - The `smtplib` library (included in Python's standard library).
 - The `email` library (included in Python's standard library).
 - A `credentials.py` file containing your Gmail email address and app password. Example:
-```
 
 ```python
 accDetails = {
@@ -40,6 +36,13 @@ accDetails = {
 
 - Update the `accDetails` dictionary in the `credentials.py` file with your Gmail email and app password.
 - Customize the HTML template within the `taskEmail` function to adjust the email content and styling.
+
+## Screenshots
+
+
+```plaintext
+![Screenshot 1](images/screenshot1.png)
+```
 
 ## Notes
 
