@@ -56,4 +56,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Disclaimer:** This script uses Gmail's SMTP server for sending emails. Make sure you understand and comply with Gmail's terms of use and security guidelines.
-```
