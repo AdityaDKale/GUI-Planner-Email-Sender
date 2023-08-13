@@ -39,10 +39,8 @@ accDetails = {
 
 ## Screenshots
 
+![Screenshot 1](images/screenshot1.jpg)
 
-```plaintext
-![Screenshot 1](images/screenshot1.png)
-```
 
 ## Notes
 
