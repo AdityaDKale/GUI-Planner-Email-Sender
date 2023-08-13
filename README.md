@@ -1,6 +1,6 @@
 # Task Reminder Email Generator
 
-This Python script sends task reminder emails using the Gmail SMTP server. It generates HTML-formatted email content with task details and sends it to the specified recipient's email address.
+This Python script sends task reminder emails using the Gmail SMTP server. It generates HTML-formatted email content with task details and sends it to the specified recipient's email address. It is a customized email sender which is the part of the bigger project of GUI Planner which is not publicly available.
 
 ## Prerequisites
 
